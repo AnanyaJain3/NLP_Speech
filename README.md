@@ -5,7 +5,7 @@ collabrated with [Tarun Raman](https://github.com/2307tarun)
   - Implemented a NLP pipeline to classify emotions into eight classes and detect the gender of the speaker using the RAVDESS dataset.
   -  Trained and compared DL models MLP and CNN on audio features extracted like MFCC, Chroma, Spectral Rolloff, Mel and ZCR Voice using the Librosa library.
   -   Achieved test accuracy of 68% on emotion classification and ∼99.3% on gender classification using MLP architecture.
-  -    CNN and LSTM Models are being worked upon.
+  -   CNN and LSTM Models are being worked upon.
 
 ## Abstract
 Detection of emotions is natural for humans, but it is a very difficult task for computers, since accessing the depth behind content is difficult and that’s what speech emotion recognition (SER) sets out to do. It is a system through which various audio speech files are classified into different emotions such as happy, sad, anger and neutral by computers.
