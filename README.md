@@ -1,6 +1,6 @@
 # Speech Emotion Recognition
 
-collabrated with [Tarun Raman](https://github.com/2307tarun)
+collabrated with [Tarun Raman]((https://github.com/swift9909))
   
   - Implemented a NLP pipeline to classify emotions into eight classes and detect the gender of the speaker using the RAVDESS dataset.
   -  Trained and compared DL models MLP and CNN on audio features extracted like MFCC, Chroma, Spectral Rolloff, Mel and ZCR Voice using the Librosa library.
